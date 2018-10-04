@@ -1,0 +1,29 @@
+body {
+    background-image: url("../assets/background_image/Moonlit\ Asteroid.jpg");
+}
+
+@import url('https://fonts.googleapis.com/css?family=Acme');
+
+h1 {
+    font-family: 'Acme', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.action {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+p {
+   
+}
+
